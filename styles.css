@@ -21,7 +21,8 @@ h1 {
     text-align: center;
 }
 
-li {
+li,
+a {
     padding: 10px;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
