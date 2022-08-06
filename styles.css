@@ -1,0 +1,35 @@
+body {
+    background-image: url('https://www.nyan.cat/cats/original.gif')
+}
+
+.mainrecipes {
+    background-color: white;
+}
+
+.unorderedlist {
+    text-align: center;
+    list-style: none;
+    padding-left: 0;
+}
+
+.mainlist {
+    font-size: 40px;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+li {
+    padding: 10px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.imgicon {
+    height: 50px;
+    width: 50px;
+    padding-left:10px;
+    padding-right: 10px;
+
+}
